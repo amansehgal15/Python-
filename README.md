@@ -1,2 +1,2 @@
-# Python-This reprository contains assignments from Ineuron.
-Thanks, Happy learning 1
+Python-This reprository contains assignments from Ineuron.
+Thanks, Happy learning !
